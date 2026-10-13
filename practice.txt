@@ -1,0 +1,1 @@
+Learned about staging area, commit, merge and pull request using local and remote repository in this assignment
